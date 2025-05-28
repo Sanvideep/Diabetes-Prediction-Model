@@ -1,7 +1,7 @@
 # Diabetes-Prediction-Model
 This project presents a machine learning model designed to predict the likelihood of diabetes in a patient based on key medical parameters. The dataset used is a well-known diabetes dataset, containing several diagnostic features and one target variable, Outcome, which indicates whether a patient has diabetes (1) or not (0).
 
-#Dataset Features:
+# Dataset Features:
 Pregnancies: Number of times the patient has been pregnant
 Glucose: Plasma glucose concentration after 2 hours in an oral glucose tolerance test
 BloodPressure: Diastolic blood pressure (mm Hg)
@@ -12,7 +12,7 @@ DiabetesPedigreeFunction: A function that scores the likelihood of diabetes base
 Age: Age of the patient in years
 Outcome: Target variable — 1 indicates diabetes, 0 indicates no diabetes
 
-#Machine Learning Workflow:
+# Machine Learning Workflow:
 The notebook includes the following steps:
 Data Preprocessing: Handling missing values and normalizing data
 Exploratory Data Analysis (EDA): Visualizing distributions and correlations
